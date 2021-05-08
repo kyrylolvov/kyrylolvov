@@ -1,3 +1,3 @@
 <h1 align="center">Profile</h1>
-<hr>
+<p>Hey everyone 👋 I am Kyrylo Lvov</p>
 
