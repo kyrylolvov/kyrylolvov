@@ -7,6 +7,7 @@ For my first freelance contract, I was given the opportunity to create a simple 
 
 Even when I finish my work, I always tend to continue coding and learning something new on my own. Most recently I have started learning ReactJs. In my spare time I play violin and I find a beautiful crossover between software and music. Both pursue challenges in many aspects of our mind: problem solving, creativity, organization and so on. This is what keeps me up at night, a never ending thirst to create gorgeous and powerful things and share them with the world!
 
-Hard Skills: HTML, CSS/SASS, Bootstrap, JavaScript, Git, Github
-Soft Skills: Self-management, Communication, Problem-Solving, Teamwork, Flexibility</p>
+Hard Skills: HTML, CSS/SASS, Bootstrap, JavaScript, React, Redux, Git, Github, npm, Babel, Pacel.
+<br>
+Soft Skills: Self-management, Communication, Problem-Solving, Teamwork, Flexibility.</p>
 
