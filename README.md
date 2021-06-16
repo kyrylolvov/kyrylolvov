@@ -6,7 +6,7 @@ First and foremost, I enjoy coding! Ever since I wrote my first webpage, I have 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyrylolvov)](https://github.com/anuraghazra/github-readme-stats)
 
 
-  <b>Hard Skills:</b> HTML, CSS/SASS, Bootstrap, JavaScript, jQuery, React, Redux, Git, Github, npm, Babel, Pacel.
+  <b>Hard Skills:</b> HTML, CSS/SASS, Bootstrap, JavaScript, jQuery, API/Axios, React, Redux, Git, Github, npm, Babel, Postman, Pacel.
 <br>
   <b>Soft Skills:</b> Self-management, Communication, Problem-Solving, Teamwork, Flexibility.</p>
 
