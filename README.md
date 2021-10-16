@@ -6,7 +6,7 @@ First and foremost, I enjoy coding! Ever since I wrote my first webpage, I have 
 Even when I finish my work, I always tend to continue coding and learning something new on my own. Most recently I have started learning ReactJs. In my spare time I play violin and I find a beautiful crossover between software and music. Both pursue challenges in many aspects of our mind: problem solving, creativity, organization and so on. This is what keeps me up at night, a never ending thirst to create gorgeous and powerful things and share them with the world!
 
 
-  <b>Hard Skills:</b> HTML, CSS/SASS, Bootstrap, JavaScript, jQuery, API/Axios, React, Redux, Typescript, Git, Github, npm, Babel, Postman, Pacel.
+  <b>Hard Skills:</b> HTML, CSS/SASS, Bootstrap, JavaScript, jQuery, API/Axios, React, Redux, Typescript, Git, Github, npm, Babel, Postman, Parcel.
 <br>
   <b>Soft Skills:</b> Self-management, Communication, Problem-Solving, Teamwork, Flexibility.</p>
 
