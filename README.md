@@ -1,12 +1,19 @@
-<h1 align="center">Profile</h1>
 <h3>Hey everyone 👋 I am Kyrylo Lvov</h3>
-<p>
-First and foremost, I enjoy coding! Ever since I wrote my first webpage, I have been obsessed with the idea of using software in order to solve real life problems. Software engineering is a never-ending puzzle that I am absolutely engaged in solving. I truly believe in the power of programming as an improvement to the lives of people all around the world.
 
-Even when I finish my work, I always tend to continue coding and learning something new on my own. Most recently I have started learning ReactJs. In my spare time I play violin and I find a beautiful crossover between software and music. Both pursue challenges in many aspects of our mind: problem solving, creativity, organization and so on. This is what keeps me up at night, a never ending thirst to create gorgeous and powerful things and share them with the world!
-
-
-  <b>Hard Skills:</b> HTML, CSS/SASS, Bootstrap, JavaScript, jQuery, API/Axios, React, Redux, Typescript, Git, Github, npm, Babel, Postman, Parcel.
-<br>
-  <b>Soft Skills:</b> Self-management, Communication, Problem-Solving, Teamwork, Flexibility.</p>
+```javascript
+const about = {
+    name: 'christopher nguyen',
+    experience: {
+        education: 'cs @ york university',
+        currently: 'software engineer intern @ facebook',
+        previously: 'intern @ amazon + shopify'
+    },
+    links: {
+        website: 'https://chris-nguyen.me',
+        github: 'https://github.com/chrisngyn',
+        linkedin: 'https://www.linkedin.com/in/chrisngyn',
+    },
+    quote: 'this thing we call failure is not the falling down, but the staying down. - leslie knope'
+}
+```
 
