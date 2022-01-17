@@ -9,9 +9,9 @@ const aboutMe = {
             'junior frontend developer @ lambda team',
         ]
     },
-    education: [
-        'cpe @ humber college',
-    ],
+    education: {
+        currently: 'cpe @ humber college',
+    },
     links: {
         github: 'https://github.com/kyrylolvov',
         linkedin: 'https://www.linkedin.com/in/kyrylolvov/',
