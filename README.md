@@ -2,18 +2,17 @@
 
 ```javascript
 const about = {
-    name: 'christopher nguyen',
+    name: 'kyrylo lvov',
     experience: {
-        education: 'cs @ york university',
-        currently: 'software engineer intern @ facebook',
-        previously: 'intern @ amazon + shopify'
+        education: 'ceng @ humber college',
+        currently: 'frontend developer intern @ arc compute',
+        previously: 'frontend developer @ lambda team'
     },
     links: {
-        website: 'https://chris-nguyen.me',
-        github: 'https://github.com/chrisngyn',
-        linkedin: 'https://www.linkedin.com/in/chrisngyn',
+        github: 'https://github.com/kyrylolvov',
+        linkedin: 'https://www.linkedin.com/in/kyrylolvov/',
     },
-    quote: 'this thing we call failure is not the falling down, but the staying down. - leslie knope'
+    quote: 'everybody wants to go to heaven but nobody wants to die - albert king'
 }
 ```
 
