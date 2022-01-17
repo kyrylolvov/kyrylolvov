@@ -1,7 +1,7 @@
 <h3>Hey everyone! I am Kyrylo Lvov 👋</h3>
 
-```javascript
-const about = {
+```typescript
+const aboutMe = {
     name: 'kyrylo lvov',
     experience: {
         education: 'ceng @ humber college',
