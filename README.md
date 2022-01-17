@@ -1,4 +1,4 @@
-<h3>Hey everyone 👋 I am Kyrylo Lvov</h3>
+<h3>Hey everyone! I am Kyrylo Lvov 👋</h3>
 
 ```javascript
 const about = {
