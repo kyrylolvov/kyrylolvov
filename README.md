@@ -6,7 +6,7 @@ const aboutMe = {
     experience: {
         currently: [
             'frontend developer intern @ arc compute',
-            'frontend developer @ lambda team',
+            'junior frontend developer @ lambda team',
         ]
     },
     education: [
