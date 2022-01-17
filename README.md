@@ -4,10 +4,14 @@
 const aboutMe = {
     name: 'kyrylo lvov',
     experience: {
-        education: 'ceng @ humber college',
-        currently: 'frontend developer intern @ arc compute',
-        previously: 'frontend developer @ lambda team'
+        currently: [
+        'frontend developer intern @ arc compute',
+        'frontend developer @ lambda team',
+        ]
     },
+    education: [
+        'ceng @ humber college',
+    ],
     links: {
         github: 'https://github.com/kyrylolvov',
         linkedin: 'https://www.linkedin.com/in/kyrylolvov/',
