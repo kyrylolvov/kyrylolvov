@@ -1,5 +1,4 @@
 <h3>Hey everyone! I am Kyrylo Lvov 👋</h3>
-![](https://komarev.com/ghpvc/?username=kyrylolvov)
 
 ```typescript
 const aboutMe = {
@@ -21,3 +20,4 @@ const aboutMe = {
 }
 ```
 
+![](https://komarev.com/ghpvc/?username=kyrylolvov)
