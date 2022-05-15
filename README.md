@@ -20,4 +20,4 @@ const aboutMe = {
 }
 ```
 
-![](https://komarev.com/ghpvc/?username=kyrylolvov)
+![](https://komarev.com/ghpvc/?username=kyrylolvov&style=for-the-badge)
