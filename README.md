@@ -19,5 +19,3 @@ const aboutMe = {
     quote: 'everybody wants to go to heaven but nobody wants to die - albert king'
 }
 ```
-
-![](https://komarev.com/ghpvc/?username=kyrylolvov&style=for-the-badge)
