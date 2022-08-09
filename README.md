@@ -5,9 +5,11 @@ const aboutMe = {
     name: 'kyrylo lvov',
     experience: {
         currently: [
-            'frontend developer @ arc compute',
             'frontend developer @ lambda team',
-        ]
+        ],
+        previously: [
+            'frontend developer @ arc compute',
+        ],
     },
     education: {
         currently: 'cpe @ humber college',
