@@ -10,7 +10,7 @@ const aboutMe = {
         ],
         previously: [
             'software developer intern @ micro focus',
-            'software developer intern @ arc compute'
+            'full stack developer intern @ arc compute'
         ],
     },
     education: {
