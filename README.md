@@ -6,9 +6,10 @@ const aboutMe = {
     experience: {
         currently: [
             'frontend developer @ lambda team',
+            'frontend developer @ arc compute',
         ],
         previously: [
-            'frontend developer @ arc compute'
+            'full stack developer intern @ arc compute'
             'software developer intern @ micro focus',
         ],
     },
