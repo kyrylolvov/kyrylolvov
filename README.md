@@ -19,6 +19,7 @@ const aboutMe = {
     links: {
         github: 'https://github.com/kyrylolvov',
         linkedin: 'https://www.linkedin.com/in/kyrylolvov/',
+        twitter: 'https://twitter.com/eclairwhynot'
     },
     quote: 'everybody wants to go to heaven but nobody wants to die - albert king'
 }
