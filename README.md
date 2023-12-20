@@ -14,7 +14,7 @@ const aboutMe = {
         ],
     },
     education: {
-        currently: 'cpe @ humber college',
+        previously: 'cpe @ humber college',
     },
     links: {
         github: 'https://github.com/kyrylolvov',
