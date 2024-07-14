@@ -9,7 +9,7 @@ const aboutMe = {
         ],
         previously: [
             'frontend developer @ lambda team',
-            'software developer intern @ micro focus',
+            'software developer intern @ opentext',
             'full stack developer intern @ arc compute'
         ],
     },
