@@ -5,13 +5,13 @@ const aboutMe = {
     name: 'kyrylo lvov',
     experience: {
         currently: [
-            'fullstack developer @ zeropath',
+            'full stack engineer @ zeropath (yc s24)',
         ],
         previously: [
             'frontend developer @ arc compute',
             'frontend developer @ lambda team',
             'software developer intern @ opentext',
-            'fullstack developer intern @ arc compute'
+            'full stack developer intern @ arc compute'
         ],
     },
     education: {
