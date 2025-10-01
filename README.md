@@ -6,9 +6,9 @@ const aboutMe = {
     experience: {
         currently: [
             'lead web engineer @ bendigi technologies inc.',
-            'full stack engineer @ zeropath (yc s24)',
         ],
         previously: [
+            'full stack engineer @ zeropath (yc s24)',
             'frontend developer @ arc compute',
             'frontend developer @ lambda team',
             'software developer intern @ opentext',
